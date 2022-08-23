@@ -4,10 +4,10 @@
 - Please feel free to use my open source code repositories. I hope they help and add value to your work.
 
  ## 🌱 Interests:
- -Machine Learning 
- -Deep Learning
- -Data Science
- -Web development.
+ - Machine Learning 
+ - Deep Learning
+ - Data Science
+ - Web development.
                                               
 
 
@@ -22,7 +22,8 @@
   - I am also Learning Web Development through MOOCs offered by Meta and youtube.
  
 
-
+## Github Profile:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajahaiderali)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Social Handles:
                                               
                                              
