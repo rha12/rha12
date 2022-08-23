@@ -1,23 +1,23 @@
-## Hi there 👋
+## **Hi there 👋**
 
 - I hope you are having a productive day.
 - Please feel free to use my open source code repositories. I hope they help and add value to your work.
 
-##🌱 Interests:
+ ## **🌱 Interests:**
                                               -Machine Learning 
                                               -Deep Learning
                                               -Data Science
                                               -Web development.
                                               
-##:mortar_board: Education:
+## **:mortar_board: Education:**
                                               Bachelor of Software Engineering at [NUST](https://nust.edu.pk/) 
                                               
-##💬 About:
+## **💬 About:**
  I am a self-directed learner and technology enthusiast. Currently I am pursuing Bachelors in Software Engineering at National University of Sciences & Technology [NUST](https://nust.edu.pk/) main campus in Islamabad, Pakistan. I am always looking forward to learn new skills and polish my existing skills through MOOCs. 
  - I am learning Machine Learning and Deep Learning through MOOCs offered by [DeepLearning.AI](https://www.deeplearning.ai/).
  - I am also Learning Web Development through MOOCs offered by Meta and youtube.
  
-##📫 Social Handles:
+## **📫 Social Handles:**
                                               
                                              
 <!--
