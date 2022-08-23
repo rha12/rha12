@@ -19,7 +19,7 @@
 ## 💬 About:
  I am a self-directed learner and technology enthusiast. Currently I am pursuing Bachelors in Software Engineering at National University of Sciences & Technology     [NUST](https://nust.edu.pk/) main campus in Islamabad, Pakistan. I am always looking forward to learn new skills and polish my existing skills through MOOCs. 
   - I am learning Machine Learning and Deep Learning through MOOCs offered by [DeepLearning.AI](https://www.deeplearning.ai/).
-  - I am also Learning Web Development through MOOCs offered by Meta and youtube.
+  - I am also Learning Web Development through MOOCs offered by Meta and youtube videos.
  
 
 ## Github Profile:
