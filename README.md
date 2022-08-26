@@ -3,8 +3,7 @@
 - I hope you are having a productive day.
 - Please feel free to use my open source code repositories. I hope they help and add value to your work.
 
- ## 🌱 Interests:
- - Machine Learning 
+ ## 🌱 Interests: 
  - Deep Learning
  - Data Science
  - Web development.
