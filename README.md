@@ -3,10 +3,10 @@
 - I hope you are having a productive day.
 - Please feel free to use my open source code repositories. I hope they help and add value to your work.
 
- ## 🌱 Interests: 
+ ## 🌱 Interests:
+ - Web development.
  - Deep Learning
  - Data Science
- - Web development.
                                               
 
 
@@ -17,8 +17,6 @@
 
 ## 💬 About:
  I am a self-directed learner and technology enthusiast. Currently I am pursuing Bachelors in Software Engineering at National University of Sciences & Technology     [NUST](https://nust.edu.pk/) main campus in Islamabad, Pakistan. I am always looking forward to learning new skills and polishing my existing skills to perfection. 
-  - I am learning Machine Learning and Deep Learning through MOOCs offered by [DeepLearning.AI](https://www.deeplearning.ai/).
-  - I am also Learning Front-End Web Development.
  
 
 ## Github Profile:
