@@ -4,7 +4,7 @@
 - Please feel free to use my open source code repositories. I hope they help and add value to your work.
 
  ## 🌱 Interests:
- - Deep Learning
+ - Natural Language Processing
  - Data Science
                                               
 
