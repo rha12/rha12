@@ -4,12 +4,12 @@
 - Please feel free to use my open source code repositories. I hope they help and add value to your work.
 
  ## 🌱 Interests:
- - Data Science
+ - Data Science.
                                               
 
 
 ## :mortar_board: Education:
- Bachelor of Software Engineering at [NUST](https://nust.edu.pk/) 
+ Bachelor of Software Engineering at [NUST](https://nust.edu.pk/) .
                                               
 
 
