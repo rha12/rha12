@@ -4,7 +4,6 @@
 - Please feel free to use my open source code repositories. I hope they help and add value to your work.
 
  ## 🌱 Interests:
- - Natural Language Processing
  - Data Science
                                               
 
@@ -15,8 +14,7 @@
 
 
 ## 💬 About:
- I am a self-directed learner and technology enthusiast. I'm cuurently in my final year of a Bachelors in Software Engineering at National University of Sciences & Technology     [NUST](https://nust.edu.pk/) main campus in Islamabad, Pakistan. I am always looking forward to learning new skills and polishing my existing skills to perfection. 
- 
+ I am a Software Engineer graduated from NUST, passionate about staying ahead of curve in the dynamic software industry. As a self-directed learner, I thrive on challenges and continuously expand my skill set through online courses and personal projects.
 
 ## Github Profile:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rha12)](https://github.com/anuraghazra/github-readme-stats)
